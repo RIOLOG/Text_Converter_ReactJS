@@ -9,7 +9,6 @@ function App() {
 <Navbar title="TextUtils by Rio"/>
 <div className="container my-3">
 <TextForm heading="Enter the text below"/>
-{/* <About/> */}
 </div>
 </>
  ); 
